@@ -1,24 +1,19 @@
-/*Declare the following values:
+var firstName = 'Pariya';
+var lastName = 'Eghdami';
+var age = 33;
+var datOfBirth = '19 March 1986';
+var address = '847 Hornby Street';
+var sleep = true;
 
-First name
-Last name
-Age
-Date of birth
-Address
-Assign a value to each variable using the right variable name
-
-Your first name (string)
-Your last name (string)
-Your age (number)
-Your date of birth (string, format mm/dd/yyyy)
-Your address (string)
-TIP: Use single or double quotes around the text for strings
-*/
-let firstName = 'Pariya';
-let lastName = 'Eghdami';
-let age = 33;
-let datOfBirth = '19 March 1986';
-let address = '847 Hornby Street';
 
 console.log(firstName);
+console.log(lastName);
+console.log(age);
+console.log(datOfBirth);
+console.log(address);
+console.log(firstName, typeof(firstName));
+
+
+
+
 
